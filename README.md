@@ -18,6 +18,7 @@
 [Marine Pollution Cleanup Data](https://docs.google.com/spreadsheets/d/1dL3_sfdCcFlO-8mcWA_ZRsUAWIpY28OOHLEUnIqDDKc/edit?usp=sharing)
 
 ## Data Modelling 
+![Marine pollution data model](https://github.com/Sorbari2016/marine-pollution-cleanup-analysis/blob/main/asset/Marine%20data%20model.png)
 
 
 ## Dashboard 
