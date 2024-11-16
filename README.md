@@ -22,14 +22,14 @@
 
 
 ## Dashboard 
-
-
 ### Main Page 
-
+![Main page](https://github.com/Sorbari2016/marine-pollution-cleanup-analysis/blob/main/asset/Dashboad%20Main%20page.png)
 
 ### Items Collected by Zones Page 
+![Items Collected by Zones Page](https://github.com/Sorbari2016/marine-pollution-cleanup-analysis/blob/main/asset/Items%20Collected%20by%20Zones%20page.png)
 
 ## Recommendations 
 
 ## Download 
+[Download the Power BI file here](https://github.com/Sorbari2016/marine-pollution-cleanup-analysis/blob/main/asset/Marine%20Cleanup%20Dashboard.pbix)
 
